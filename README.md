@@ -1,4 +1,4 @@
-# Prostate-Dx
+# Prostate-Cancer Detection
 # Prostate Cancer Detection and Risk Classification using MRI Scans
 
 This project focuses on detecting prostate cancer and classifying its risk levels using **MRI scans** as the sole input. By experimenting with over 100 machine learning models, the project aims to achieve high accuracy in both cancer detection and risk stratification.
